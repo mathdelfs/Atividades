@@ -1,0 +1,10 @@
+D:\Conta Corrente\Conta Corrente\bin\Debug\Conta Corrente.exe.config
+D:\Conta Corrente\Conta Corrente\bin\Debug\Conta Corrente.exe
+D:\Conta Corrente\Conta Corrente\bin\Debug\Conta Corrente.pdb
+D:\Conta Corrente\Conta Corrente\obj\Debug\Conta Corrente.csprojAssemblyReference.cache
+D:\Conta Corrente\Conta Corrente\obj\Debug\Conta_Corrente.Form1.resources
+D:\Conta Corrente\Conta Corrente\obj\Debug\Conta_Corrente.Properties.Resources.resources
+D:\Conta Corrente\Conta Corrente\obj\Debug\Conta Corrente.csproj.GenerateResource.cache
+D:\Conta Corrente\Conta Corrente\obj\Debug\Conta Corrente.csproj.CoreCompileInputs.cache
+D:\Conta Corrente\Conta Corrente\obj\Debug\Conta Corrente.exe
+D:\Conta Corrente\Conta Corrente\obj\Debug\Conta Corrente.pdb
